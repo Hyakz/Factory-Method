@@ -8,18 +8,20 @@ Aplicar o padrão **Factory Method** para encapsular a criação de objetos rela
 
 ## 🧱 Estrutura do Projeto
 
-FactoryMethod/ 
-├── App.py 
-├── Factory/ 
-│   └── factory.py 
-├── Logistica/ 
-│   ├── aerea.py 
-│   ├── terrestre.py 
-│   └── maritima.py 
-└── Transportes/ 
-    ├── aviao.py 
+```text
+FactoryMethod/
+├── App.py
+├── Factory/
+│   └── factory.py
+├── Logistica/
+│   ├── aerea.py
+│   ├── terrestre.py
+│   └── maritima.py
+└── Transportes/
+    ├── aviao.py
     ├── caminhao.py
-    └── navio.py 
+    └── navio.py
+```
 
 ### Neste projeto:
 
