@@ -1,5 +1,5 @@
-from Factory.factory import Factory
-from Transportes.caminhao import Caminhao
+from Factory import Factory
+from Transportes import Caminhao
 
 class LogisticaEstrada(Factory):
     def __init__(self, nome):

@@ -1,4 +1,4 @@
-from Factory.factory import Transporte
+from Factory import Transporte
 
 class Caminhao(Transporte):
     def __init__(self, nome):
