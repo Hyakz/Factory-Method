@@ -13,10 +13,12 @@ FactoryMethod/
 ├── App.py
 ├── Factory/
 │   └── factory.py
+│
 ├── Logistica/
 │   ├── aerea.py
 │   ├── terrestre.py
 │   └── maritima.py
+│
 └── Transportes/
     ├── aviao.py
     ├── caminhao.py
